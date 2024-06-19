@@ -1,2 +1,2 @@
-# ubuntu
 ubuntu:22.04
+mongo-express:1.0.2-20
