@@ -1,4 +1,4 @@
 ubuntu:22.04
 mongo-express:1.0.2-20
 gerritcodereview/gerrit:3.10.0
-ghcr.io/requarks/wiki:2.5
+sonatype/nexus3:3.70.1
