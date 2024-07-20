@@ -2,3 +2,4 @@ ubuntu:22.04
 mongo-express:1.0.2-20
 gerritcodereview/gerrit:3.10.0
 sonatype/nexus3:3.70.1
+jenkins/jenkins:2.452.3-lts
