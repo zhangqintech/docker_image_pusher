@@ -3,7 +3,8 @@ gitlab/gitlab-ce:17.4.2-ce.0
 sonatype/nexus3:3.72.0
 jenkins/jenkins:2.480
 registry:2.8.3
-redis:7.4.0
 gerritcodereview/gerrit:3.10.1
 osixia/openldap:latest
 osixia/phpldapadmin:latest
+mysql:8.4.2
+redis:7.4.0
