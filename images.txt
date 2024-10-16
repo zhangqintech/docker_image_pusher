@@ -9,5 +9,6 @@ osixia/phpldapadmin:latest
 mysql:8.4.2
 redis:7.4.0
 postgres:17.0-alpine
+dpage/pgadmin4:8.12
 mongo:7.0.14
 mongo-express:1.0.2-20
