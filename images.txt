@@ -18,3 +18,4 @@ nginx:1.27.2
 minio/minio:RELEASE.2024-09-13T20-26-02Z
 emqx/emqx:5.8.2
 nacos/nacos-server:v2.4.3
+snowdreamtech/frpc:0.61.1
