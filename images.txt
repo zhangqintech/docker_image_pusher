@@ -21,3 +21,4 @@ nacos/nacos-server:v2.4.3
 snowdreamtech/frpc:0.61.1
 ollama/ollama:0.5.11
 1panel/maxkb:v1.10.1-lts
+zhaojun1998/zfile:4.1.5
